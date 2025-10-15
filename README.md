@@ -26,7 +26,7 @@ Busco constantemente aprimorar meus conhecimentos em **programação, design de 
 `Java` | `JavaScript` | `SQL` | `CSS`  
 
 **⚙️ Frameworks e Tecnologias:**  
-| `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL` | `MongoDB`  
+ `Node.js` | `Bootstrap` | `MySQL` | `PostgreSQL` | `MongoDB`  
 
 **🛠️ Ferramentas e Plataformas:**  
 `Git` | `GitHub` | `Visual Studio` | `IntelliJ IDEA` | `Cisco Packet Tracer`  
