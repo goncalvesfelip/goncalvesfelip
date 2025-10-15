@@ -63,3 +63,18 @@ Busco constantemente aprimorar meus conhecimentos em **programação, design de 
 💻 **Portfólio:** [em desenvolvimento]  
 
 ---
+# 📊 Estatísticas do GitHub  
+![Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalvesfelip&show_icons=true&theme=radical)
+
+---
+
+# 💡 Linguagens mais utilizadas  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesfelip&layout=compact&theme=radical)
+
+---
+
+# 🔥 Sequência de Contribuições  
+![GitHub Streak](https://streak-stats.demolab.com?user=goncalvesfelip&theme=radical)
+
+---
+
