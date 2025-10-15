@@ -70,11 +70,11 @@ Busco constantemente aprimorar meus conhecimentos em **programação, design de 
 
 # 💡 Linguagens mais utilizadas  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesfelip&layout=compact&theme=radical)
-
----
-
-# 🔥 Sequência de Contribuições  
-![GitHub Streak](https://streak-stats.demolab.com?user=goncalvesfelip&theme=radical)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goncalvesfelip/goncalvesfelip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goncalvesfelip/goncalvesfelip/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goncalvesfelip/goncalvesfelip/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
